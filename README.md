@@ -57,7 +57,8 @@ Follow these steps to set up and run the project locally:
 - Remove a Video from the Gallery
 - View individual video details and watch in the app.
 
-
+![app-screenshot.png](assets/app-screenshot.png)
+![app-screenshot.png](assets/app-screenshot-2.png)
 
 ## License
 
