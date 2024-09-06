@@ -4,7 +4,7 @@ import { Layout, Menu } from 'antd';
 import { HomeOutlined } from '@ant-design/icons';
 
 import MainPage from './components/MainPage'
-import SingleVideoPage from './components/MainPage';
+import SingleVideoPage from './components/SingleVideoPage';
 
 const { Header, Content, Footer } = Layout;
 
