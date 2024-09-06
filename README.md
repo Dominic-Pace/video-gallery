@@ -53,6 +53,8 @@ Follow these steps to set up and run the project locally:
 
 - View a gallery of YouTube videos
 - Add new videos to the gallery
+- Edit Existing Videos in the Gallery
+- Remove a Video from the Gallery
 - View individual video details and watch in the app.
 
 
